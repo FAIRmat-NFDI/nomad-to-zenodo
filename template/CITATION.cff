@@ -16,8 +16,8 @@ authors: ## List all developers who have contributed to this software
     orcid: ''
 
 doi: ## Add the DOI once it is created by Zenodo
-repository-code: '## Add the link to the repository on GitHub'
-url: '## Add the URL to the software documentation'
+repository-code: ## 'Add the link to the repository on GitHub'
+url: ## 'Add the URL to the software documentation'
 abstract: >-
 ## Provide an abstract for the software. Keep it concise and focused on the software's purpose, key features, and intended use.
 
