@@ -32,7 +32,7 @@ By toggling the switch to **ON**, Zenodo will preserve the software for the long
 To trigger the publication process, [create a new release in GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). Make sure to add version tags (e.g., v1.0.0) and update release notes.This publication process and creating a DOI will proceed automatically after each new release. 
 After the first release, a DOI badge that can be included in GitHub README will appear next to the repository on the Zenodo dashboard.
 <div align="center">
-<img src="images/enabled-repos-zenodo.png" alt="Zenodo switch" width="600"> 
+<img src="images/enabled-repos-zenodo.PNG" alt="Zenodo switch" width="600"> 
 </div>
 
 ## Best practice: Include a CITATION.cff file in your repository
