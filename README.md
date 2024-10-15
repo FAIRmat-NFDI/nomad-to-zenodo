@@ -47,4 +47,4 @@ It is a plain text file with human- and machine-readable citation information fo
 - Please use the FAIRmat template available [here](template/).
 - Copy the file and place it into the root directory of the default branch in your repository. Modify the placeholders (preceded by ##) with the relevant information specific to your project. Ensure all necessary fields are completed accurately for proper citation and metadata.
 
-- Some example files are also available [here](template/examples)
+Some example files are also available [here](template/examples)
