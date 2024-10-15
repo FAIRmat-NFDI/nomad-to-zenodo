@@ -7,7 +7,7 @@ type: software
 authors: ## List all developers who have contributed to this software
   - given-names: ## Add given (first) names here
     family-names: ## Add family (last) names here
-    orcid: ' ## Add ORCID if available '
+    orcid:  ## 'Add ORCID if available'
   - given-names: 
     family-names: 
     orcid: ''
