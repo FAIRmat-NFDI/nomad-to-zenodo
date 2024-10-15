@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: ## Add the title of the software here
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors: ## List all developers who have contributed to this software
+  - given-names: ## Add given (first) names here
+    family-names: ## Add family (last) names here
+    orcid: '## Add ORCID if available'
+  - given-names: 
+    family-names: 
+    orcid: ''
+  - given-names: 
+    family-names: 
+    orcid: ''
+
+doi: ## Add the DOI once it is created by Zenodo
+repository-code: '## Add the link to the repository on GitHub'
+url: '## Add the URL to the software documentation'
+abstract: >-
+## Provide an abstract for the software. Keep it concise and focused on the software's purpose, key features, and intended use.
+
+keywords: ## Add a list of keywords relevant to the software
+- keyword 1
+- keyword 2
+
+license: Apache-2.0
+
+funding: 
+  - name: Deutsche Forschungsgemeinschaft
+    award-number: 460197019
+    title: FAIRmat – FAIR Data Infrastructure for Condensed-Matter Physics and the Chemical Physics of Solids 
+    award-uri: https://gepris.dfg.de/gepris/projekt/460197019?language=en
