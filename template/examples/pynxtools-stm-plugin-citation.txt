@@ -4,7 +4,7 @@ message:
   If you use this software, please cite it using the
   metadata from this file.
 type: software
-version: 1.0.6
+version: 1.0.8
 authors:
   - given-names: Rubel
     family-names: Mozumder
@@ -18,40 +18,43 @@ authors:
   - given-names: Lukas
     family-names: Pielsticker
     orcid: 'https://orcid.org/0000-0001-9361-8333'
-  - given-names: Sandor
-    family-names: Brockhauser
-    orcid: 'https://orcid.org/0000-0002-9700-4803'
-  - given-names: Carlos-Andres
-    family-names: Palma
-    orcid: 'https://orcid.org/0000-0001-5576-8496'
   - given-names: Lev
     family-names: Ginzburg
     orcid: 'https://orcid.org/0000-0001-8929-1040'
-  - given-names: Tamás
-    family-names: Haraszti
-    orcid: 'https://orcid.org/0000-0002-7095-4358'
   - given-names: Markus
     family-names: Kühbach
     orcid: 'https://orcid.org/0000-0002-7117-5196'
-# doi: 10.5281/zenodo.13799111
+  - given-names: Tamás
+    family-names: Haraszti
+    orcid: 'https://orcid.org/0000-0002-7095-4358'
+  - given-names: Carlos-Andres
+    family-names: Palma
+    orcid: 'https://orcid.org/0000-0001-5576-8496'
+  - given-names: Sandor
+    family-names: Brockhauser
+    orcid: 'https://orcid.org/0000-0002-9700-4803'
+    
+doi: 10.5281/zenodo.13827673
+
 repository-code: 'https://github.com/FAIRmat-NFDI/pynxtools-stm'
-url: 'https://fairmat-nfdi.github.io/pynxtools-stm/'
+url: 'https://zenodo.org/records/13828122'
 abstract:
-  The pynxtools-stm is python package evolved as a plugin of pynxtools. The 
+  The pynxtools-stm is a python package evolved as a plugin of pynxtools
+  (https://github.com/FAIRmat-NFDI/pynxtools). The 
   plugin pynxtools-stm is designed to read and process the data, metadata 
   and setup to the specific experiment from STM (Scanning Tunneling Microscopy)
-  and STS (Scanning Tunneling Spectroscopy) experimental data files and connect
+  and STS (Scanning Tunneling Spectroscopy) experimental data files and connects
   the data to the standard schema, NXsts 
   (https://fairmat-nfdi.github.io/nexus_definitions/), designed under the 
   NeXus data format. As the part of the data reading and processing, the 
   plugin pynxtools-stm describes experiment setup and the details of the 
   specific measurements. The plugin can be used as a standalone package, but 
-  for full benefits of the pynxtools-stm, we recommended to use in research 
+  for full benefits of the pynxtools-stm, we recommended to use it in research 
   data management platform NOMAD(https://nomad-lab.eu/nomad-lab/).
 
   This small project is a part of the FAIRmat project (project id 460197019) 
   funded by the Deutsche Forschungsgemeinschaft (DFG, German Research 
-  Foundation) (https://gepris.dfg.de/gepris/projekt/460197019?language=en).
+  Foundation)(https://gepris.dfg.de/gepris/projekt/460197019?language=en).
 
 
 license: Apache-2.0
