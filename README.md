@@ -54,7 +54,7 @@ There is a way to automatically include the Zenodo DOI which will be created upo
 The Markdown expression to include at the top of the README file in your repository looks like:
 `[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})`
 
-To obtain your the id for your repo, first go to the main repository page. Right click and select "View page source". This should open a new tab with html content. Search for `octolytics-dimension-repository_id` on this page. You should see something like:
+To obtain the id for your repo, first go to the main repository page. Right click and select "View page source". This should open a new tab with html content. Search for `octolytics-dimension-repository_id` on this page. You should see something like:
 
 <img src="images/repo-id.png" alt="repo id" width="700">
 
