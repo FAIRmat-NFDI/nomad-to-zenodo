@@ -75,7 +75,11 @@ If you click on this badge, you can copy the markdown expression to include at t
 
 For example:
 
-`[![DOI](https://zenodo.org/badge/744481756.svg)](https://zenodo.org/doi/10.5281/zenodo.13838811)`
+`[![DOI](https://zenodo.org/badge/744481756.svg)](https://zenodo.org/doi/10.5281/zenodo.13838811)`.
+
+Note that in this example `repo_id` = 744481756.
+
+*This is a **static** badge! I.e., you will have to manually update the DOI everytime you make a new release. Instead, you can replace `https://doi.org/{zenodo_repo_doi}` with `https://zenodo.org/badge/latestdoi/{repo_id}`* to ensure an automatic update to the latest release DOI.
 
 #### Add Citation to README
 
